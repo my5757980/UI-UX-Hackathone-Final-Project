@@ -46,7 +46,7 @@ export default function Navbar() {
                         <h2 className="md:text-white">Faqs</h2>
 
                         <div className="md:flex gap-1">
-                            <Image className="md:text-white md:size-6" src="/images/alert-circle 1 (1).png" alt="logo" width={16} height={16} />
+                            <Image className="md:text-white md:size-6" src="/image/alert-circle 1.png" alt="logo" width={16} height={16} />
                             <h2 className="md:text-white">Need Help</h2>
                         </div>
                     </div>
