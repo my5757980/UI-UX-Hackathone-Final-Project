@@ -9,6 +9,8 @@ import Image from "next/image";
 import { useState } from "react";
 export default function Navbar() {
     const [open, setopen] = useState(false)
+
+    
     return (
         <div className="overflow-x-hidden">
 
@@ -54,7 +56,7 @@ export default function Navbar() {
 
                 <div className="md:h-[84px] md:bg-[#F0F2F3] md:flex md:justify-around  md:items-center  hidden">
                     <div className="md:flex  md:items-center md:gap-2">
-                        <Image src="/images/Logo Icon (1).png" alt="logo" width={40} height={40} />
+                        <Image src="/image/Logo Icon.png" alt="logo" width={40} height={40} />
                         <h2 className="md:font-semibold">Comforty</h2>
                     </div>
 
