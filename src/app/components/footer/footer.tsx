@@ -85,7 +85,7 @@ export default function Footer(){
        <span className="text-[#9A9CAA] ">@ 2021 - Blogy - Designed & Develop by </span>
        <span className="text-[#272343]">Zakirsoft</span>
        </h2>
-       <Image className="m-auto md:relative md:left-[81px]"src="/images/Group 13 (2).png" alt="logo" width={188} height={188}/>
+       <Image className="m-auto md:relative md:left-[81px]"src="/image/Group 13.png" alt="logo" width={188} height={188}/>
        
 
        </div>
