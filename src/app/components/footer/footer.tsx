@@ -21,7 +21,7 @@ export default function Footer(){
 
           <div className="flex flex-col gap-4     lg:relative lg:right-[88px]">
           <div className="flex items-center gap-2">
-        <Image className="size-12"src="/images/Logo Icon (1).png" alt="logo" width={40} height={40}/>
+        <Image className="size-12"src="/image/Logo Icon.png" alt="logo" width={40} height={40}/>
         <h2 className="font-bold text-[25px]">Comforty</h2>
         </div>
         <p className="text-[#9A9CAA]">Vivamus tristique odio sit amet velit semper, eu posuere turpis interdum.Cras egestas purus </p>
